@@ -14,6 +14,7 @@
 - CSS
 - JavaScript
 - React
+- Node js
 
 🛠 Projects:
 - React Weather App
