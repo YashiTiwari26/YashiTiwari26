@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Yashi Tiwari
 
-<!--
-**YashiTiwari26/YashiTiwari26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Software Engineer
 
-Here are some ideas to get you started:
+🎓 Pre-Final Year B.Tech Student (ECE) at PSIT Kanpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- React
+- JavaScript
+- Frontend Development
+
+💻 Skills:
+- HTML
+- CSS
+- JavaScript
+- React
+
+🛠 Projects:
+- React Weather App
+- Typing Speed Test
+
+📧 Email:
+tiwariyashi2626@gmail.com
+
+🔗 GitHub:
+https://github.com/YashiTiwari26
+
+✨ About Me:
+I am a passionate B.Tech student who loves learning new technologies and building web applications. I am currently focusing on Frontend Development and improving my problem-solving skills.
+
+⭐ Thanks for visiting my profile!
