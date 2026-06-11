@@ -7,7 +7,7 @@
 🌱 Currently Learning:
 - React
 - JavaScript
-- Frontend Development
+- FullStack Development
 
 💻 Skills:
 - HTML
